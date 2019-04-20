@@ -1,3 +1,11 @@
+***
+
+Managing and Visualizing Chicago Shared Bike Dataset
+
+**Notebook**
+[Notebook Report][https://nbviewer.jupyter.org/github/Yuhang-Wu/Chicago-Shared-Bike-Analysis/blob/master/ST445_Final_Project.ipynb]
+***
+
 This file contains metadata for both Trips and Stations files.
 
 For more information, visit http://DivvyBikes.com/data or email questions to data@DivvyBikes.com. 
